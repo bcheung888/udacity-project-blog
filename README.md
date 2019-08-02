@@ -20,7 +20,7 @@ This repository contains the following files:
   
 ### Data
   
-The data used in this project is available from:
+The data used in this project (860MB unzipped) is available from:
 - listings.csv (Detailed Listings data for Sydney)
   - http://data.insideairbnb.com/australia/nsw/sydney/2019-07-10/data/listings.csv.gz
 - calendar.csv (Detailed Calendar Data for listings in Sydney)
