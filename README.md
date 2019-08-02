@@ -17,12 +17,16 @@ The purpose of this project was to explore the Sydney AirBNB data as part of Uda
 This repository contains the following files:
 - Udacity - AirBNB data blog post.ipynb
   - Jupyter notebook exploring and analysing the Sydney AirBNB data
-- listings.csv
-  - Detailed Listings data for Sydney
-- calendar.csv
-  - Detailed Calendar Data for listings in Sydney
-- reviews.csv
-  - Detailed Review Data for listings in Sydney
+  
+### Data
+  
+The data used in this project is available from:
+- listings.csv (detailed Listings data for Sydney)
+  - http://data.insideairbnb.com/australia/nsw/sydney/2019-07-10/data/listings.csv.gz
+- calendar.csv (detailed Calendar Data for listings in Sydney)
+  - http://data.insideairbnb.com/australia/nsw/sydney/2019-07-10/data/calendar.csv.gz
+- reviews.csv (Detailed Review Data for listings in Sydney)
+  - http://data.insideairbnb.com/australia/nsw/sydney/2019-07-10/data/reviews.csv.gz
 
 ### Summary
 
